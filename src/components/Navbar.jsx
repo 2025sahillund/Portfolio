@@ -40,8 +40,9 @@ function Navbar() {
         </a>
 
         <a
-          href="/resume.pdf"
+          href="/assets/resume.pdf"
           target="_blank"
+          rel="noreferrer"
           className="resume-btn"
         >
           Resume
